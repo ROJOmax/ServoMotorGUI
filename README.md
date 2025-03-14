@@ -2,7 +2,7 @@
 
 ![Servo Motor Control GUI](path/to/screenshot.png)  
 *A simple GUI application to control servo motors using Python and an Arduino.*
-
+![screenshot](ServoGUI.png)
 ## Overview
 
 This project provides a graphical user interface (GUI) to control multiple servo motors connected to an Arduino via serial communication. Built using Python's `PyQt5` library, the application allows users to adjust the position of three servo motors ("Base", "Art 1", and "Art 2") using sliders or by entering specific degree values. Additionally, a fourth servo ("La Main") can be opened or closed with dedicated buttons. The GUI also includes controls to connect and disconnect from the Arduino via a serial COM port.
